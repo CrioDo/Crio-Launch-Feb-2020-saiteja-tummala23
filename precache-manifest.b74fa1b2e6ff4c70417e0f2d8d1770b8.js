@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "810df80a1d25cc5870ab86938649547c",
+    "revision": "6b65986941f39ad5f629e35a56108a41",
     "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/index.html"
   },
   {
-    "revision": "bcd8419d7e409c2dd9d8",
+    "revision": "e2a67dfd5b9f6d2b541f",
     "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "1fe8ab8891be4611fbdb",
+    "revision": "e7d02268bbcceb40497e",
     "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "bcd8419d7e409c2dd9d8",
-    "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/static/js/2.0284a985.chunk.js"
+    "revision": "e2a67dfd5b9f6d2b541f",
+    "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/static/js/2.cdc6b4a2.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/static/js/2.0284a985.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/static/js/2.cdc6b4a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fe8ab8891be4611fbdb",
-    "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/static/js/main.91dd7faf.chunk.js"
+    "revision": "e7d02268bbcceb40497e",
+    "url": "/Crio-Launch-Feb-2020-saiteja-tummala23/static/js/main.809e0bc6.chunk.js"
   },
   {
     "revision": "4c4d349a8d112ae85626",
